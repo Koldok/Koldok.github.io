@@ -213,6 +213,35 @@ nav > ul > li > a:hover, a:active {
 	background-clip: border-box;
 	display: inline-block;
 }
+/* --- Franquiciate-------------------------------------------- */
+.txt_tienda { 
+	width: 30%;
+	display: inline-block;
+	text-align: right;
+	margin-left: 30%;
+}
+
+.img_tienda { 
+	width: 30%;
+	height: 500px;
+	display: inline-block;
+	background-image: url("../img/tienda.png");
+	background-size: contain;
+	background-position: right top;
+	background-repeat: no-repeat;
+	vertical-align: top;
+}
+.title_box3 {
+	text-align: right;
+	width: 30%;
+	font-size: 3em;
+	font-weight: 900;
+	color: #7d3387;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 100px;
+	line-height: 0.95;
+}
 
 /* --- DOG HASHTAG -------------------------------------------- */
 
@@ -228,6 +257,8 @@ nav > ul > li > a:hover, a:active {
 	background-repeat: no-repeat;
 	vertical-align: top;
 }
+
+
 
 .txt_dog_hashtag { 
 	width: 30%;
